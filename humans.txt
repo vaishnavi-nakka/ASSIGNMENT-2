@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vaishnavi -- Author 
 
 # THANKS
 
-    <name>
+    Ximanta, Dinesh, Nirjhar, Meghana, Garima, Anand.
 
 # TECHNOLOGY COLOPHON
 
